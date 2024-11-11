@@ -26,7 +26,7 @@ Je suis Haithem Hadj Ammar, un étudiant de 25 ans en informatique à l'ISGS en 
 
 ![Abonnés GitHub](https://img.shields.io/github/followers/HaithemHadjAmmar?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
-![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=HaithemHadjAmmar.HaithemHadjAmmar)
+<!-- ![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=HaithemHadjAmmar.HaithemHadjAmmar) -->
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=HaithemHadjAmmar)
 <img src="https://img.shields.io/badge/Age-25-blue" />
 
@@ -34,12 +34,12 @@ Je suis Haithem Hadj Ammar, un étudiant de 25 ans en informatique à l'ISGS en 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- TODO: Add last video link 
 
-- 🔭 I’m currently working at @Toptal
+<!-- - 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: haithem.beenammar43@gmail.com.
 - 😄 Pronouns: Haithoum,Haithem.
--->
+--> -->
 
 
 <!-- Skills  -->
