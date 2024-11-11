@@ -16,7 +16,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ESPRIT in Tunisia 💻. I am a full-stack web and mobile developer, completely passionate about frontend and backend development .
+I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ISGS in Tunisia 💻. I am a full-stack web and mobile developer, completely passionate about frontend and backend development .
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -40,7 +40,7 @@ I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ESPRIT in Tuni
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: haithem.beenammar43@gmail.com.
-- 😄 Pronouns: Sam3oulation,Ismail.
+- 😄 Pronouns: Haithoum,Haithem.
 -->
 
 
