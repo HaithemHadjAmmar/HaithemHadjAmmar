@@ -16,7 +16,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ISGS in Tunisia 💻. I am a full-stack web and mobile developer, completely passionate about frontend and backend development .
+I'm Mohamed Aziz Ben Ismail, a 25-year-old Computer Science student at ESPRIT in Tunisia 💻. I am a full-stack web and mobile developer, completely passionate about frontend and backend development .
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
