@@ -59,8 +59,20 @@ I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ISGS in Tunisi
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaithemHadjAmmar&show_icons=true&theme=radical" alt="Github Stats">
+</div>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaithemHadjAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia" alt="Most Used Languages">
+</div>
+<div align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaithemHadjAmmar&&theme=algolia" alt="GitHub Streak">
+</div>
+<div align="right">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaithemHadjAmmar&theme=react" alt="Activity Graph">
+</div>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HaithemHadjAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HaithemHadjAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=HaithemHadjAmmar&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaithemHadjAmmar&&theme=algolia" alt="HaithemHadjAmmar" /></p>
@@ -71,7 +83,7 @@ I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ISGS in Tunisi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div align="center" >
+<div align="center" > -->
 
 | Choose your language         | Flags                                                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
