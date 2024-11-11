@@ -22,10 +22,9 @@ I am completely passionate about frontend backend development .
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Mail Badge](https://img.shields.io/badge/-HaithemHadjAmmar-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/HaithemHadjAmmar) 
-[![Linkedin Badge](https://img.shields.io/badge/-HaithemHadjAmmar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
-[![Mail Badge](https://img.shields.io/badge/-@HaithemHadjAmmar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
-[![Mail Badge](https://img.shields.io/badge/-HaithemHadjAmmar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-HaithemHadjAmmar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithem-hadj-ammar-70931125a) 
+[![Mail Badge](https://img.shields.io/badge/-@HaithemHadjAmmar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/haithem_dev/)
+[![Mail Badge](https://img.shields.io/badge/-HaithemHadjAmmar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haithem.beenammar43@gmail.com)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/HaithemHadjAmmar?style=social)
