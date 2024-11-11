@@ -13,21 +13,20 @@
 <img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
 
 <!--  About me -->
-<!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
-**About me**
+## <picture><img src = "assets/about_me.gif" width = 50px></picture> **À propos de moi**
 
 Je suis Haithem Hadj Ammar, un étudiant de 25 ans en informatique à l'ISGS en Tunisie 💻. Je suis développeur full-stack web et mobile, totalement passionné par le développement frontend et backend .
 
 <!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/handshake.gif" width ="80">
+# <b> Prenons contact..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/handshake.gif" width ="80">
 
 [![Linkedin Badge](https://img.shields.io/badge/-HaithemHadjAmmar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithem-hadj-ammar-70931125a) 
 [![Mail Badge](https://img.shields.io/badge/-@HaithemHadjAmmar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/haithem_dev/)
 [![Mail Badge](https://img.shields.io/badge/-HaithemHadjAmmar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haithem.beenammar43@gmail.com)
 
-![GitHub followers](https://img.shields.io/github/followers/HaithemHadjAmmar?style=social)
+![Abonnés GitHub](https://img.shields.io/github/followers/HaithemHadjAmmar?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=HaithemHadjAmmar.HaithemHadjAmmar)-->
+![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=HaithemHadjAmmar.HaithemHadjAmmar)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=HaithemHadjAmmar)
 <img src="https://img.shields.io/badge/Age-25-blue" />
 
@@ -60,10 +59,10 @@ Je suis Haithem Hadj Ammar, un étudiant de 25 ans en informatique à l'ISGS en 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaithemHadjAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaithemHadjAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia" alt="Langages préférés d'Haithem">
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaithemHadjAmmar&show_icons=true&theme=radical" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaithemHadjAmmar&show_icons=true&theme=radical" alt="Statistiques GitHub d'Anurag">
 </div>
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaithemHadjAmmar&&theme=algolia" alt="GitHub Streak">
