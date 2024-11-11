@@ -62,9 +62,9 @@ I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ISGS in Tunisi
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HaithemHadjAmmar&show_icons=true&theme=radical" alt="Github Stats">
 </div>
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaithemHadjAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia" alt="Most Used Languages">
-</div>
+</div> -->
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaithemHadjAmmar&&theme=algolia" alt="GitHub Streak">
 </div>
