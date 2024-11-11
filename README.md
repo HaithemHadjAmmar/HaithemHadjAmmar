@@ -60,10 +60,10 @@ I'm Haithem Hadj Ammar, a 25 years old Computer Science student at ISGS in Tunis
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaithemHadjAmmar&show_icons=true&theme=radical" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaithemHadjAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia" alt="Most Used Languages">
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaithemHadjAmmar&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaithemHadjAmmar&show_icons=true&theme=radical" alt="Github Stats">
 </div>
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaithemHadjAmmar&&theme=algolia" alt="GitHub Streak">
