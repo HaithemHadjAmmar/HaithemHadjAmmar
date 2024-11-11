@@ -19,7 +19,7 @@
 I'm Haithem Hadj Ammar, a 25 years old Computer Science student at ISGS in Tunisia 💻. I am a full-stack web and mobile developer, completely passionate about frontend and backend development .
 
 <!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/handshake.gif" width ="80">
 
 [![Linkedin Badge](https://img.shields.io/badge/-HaithemHadjAmmar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haithem-hadj-ammar-70931125a) 
 [![Mail Badge](https://img.shields.io/badge/-@HaithemHadjAmmar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/haithem_dev/)
