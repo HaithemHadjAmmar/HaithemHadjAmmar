@@ -86,7 +86,7 @@ I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ISGS in Tunisi
  -->
 
  <div align="center" >
- 
+
 | Choose your language         | Flags                                                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
@@ -95,11 +95,11 @@ I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ISGS in Tunisi
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HaithemHadjAmmar&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/HaithemHadjAmmar/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HaithemHadjAmmar&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/HaithemHadjAmmar/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 Credit: [Haithem Hadj Ammar](https://github.com/HaithemHadjAmmar) 
 
