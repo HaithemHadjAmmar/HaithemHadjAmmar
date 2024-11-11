@@ -54,7 +54,10 @@
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#) 
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#) 
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](#)
+[![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](#) 
+[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](#) 
+[![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&labelColor=black&logo=swagger&logoColor=85EA2D)](#) 
+[![Apache Badge](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=D22128)](#) 
 
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
