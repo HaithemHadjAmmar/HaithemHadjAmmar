@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hey , I'm Haithem Hadj Ammar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Haithem+Hadj+Ammar..&hearts;++;Full+Stack+Web+&+Mobile+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Haithem+Hadj+Ammar..&hearts;++;Full+Stack+Web+and+Mobile+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <!--
