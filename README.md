@@ -58,7 +58,7 @@ I'm Haithem Hadj Ammar, a 25-year-old Computer Science student at ISGS in Tunisi
 
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HaithemHadjAmmar&show_icons=true&theme=radical" alt="Github Stats">
 </div>
