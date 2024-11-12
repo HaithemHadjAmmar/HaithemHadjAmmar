@@ -64,6 +64,7 @@ I'm Haithem Hadj Ammar, a 25 years old Computer Science student at ISGS in Tunis
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#)
 [![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=0052CC)](#)
 
 
