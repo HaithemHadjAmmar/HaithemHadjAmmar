@@ -54,9 +54,17 @@ Je suis Haithem Hadj Ammar, un étudiant de 25 ans en informatique à l'ISGS en 
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#) 
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](#) 
-[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](#) 
+[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&
+[![Dog API Badge](https://img.shields.io/badge/-Dog%20API-FFAC33?style=for-the-badge&labelColor=black&logo=dog&logoColor=FFAC33)](#)
+[![HTTPie Badge](https://img.shields.io/badge/-HTTPie-0096FF?style=for-the-badge&labelColor=black&logo=httpie&logoColor=0096FF)](#)
+labelColor=black&logo=postman&logoColor=FF6C37)](#) 
 [![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&labelColor=black&logo=swagger&logoColor=85EA2D)](#) 
-[![Apache Badge](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=D22128)](#) 
+[![Apache Badge](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=D22128)](#)
+[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+[![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+[![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=0052CC)](#)
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
