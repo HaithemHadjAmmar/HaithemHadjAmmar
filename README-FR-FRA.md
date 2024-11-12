@@ -54,10 +54,9 @@ Je suis Haithem Hadj Ammar, un étudiant de 25 ans en informatique à l'ISGS en 
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#) 
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](#) 
-[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&
-[![Dog API Badge](https://img.shields.io/badge/-Dog%20API-FFAC33?style=for-the-badge&labelColor=black&logo=dog&logoColor=FFAC33)](#)
+[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](#)
 [![HTTPie Badge](https://img.shields.io/badge/-HTTPie-0096FF?style=for-the-badge&labelColor=black&logo=httpie&logoColor=0096FF)](#)
-labelColor=black&logo=postman&logoColor=FF6C37)](#) 
+[![Dog API Badge](https://img.shields.io/badge/-Dog%20API-FFAC33?style=for-the-badge&labelColor=black&logo=dog&logoColor=FFAC33)](#)
 [![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&labelColor=black&logo=swagger&logoColor=85EA2D)](#) 
 [![Apache Badge](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=D22128)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
