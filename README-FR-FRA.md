@@ -24,9 +24,10 @@ Je suis Haithem Hadj Ammar, un étudiant de 25 ans en informatique à l'ISGS en 
 [![Mail Badge](https://img.shields.io/badge/-@HaithemHadjAmmar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/haithem_dev/)
 [![Mail Badge](https://img.shields.io/badge/-HaithemHadjAmmar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haithem.beenammar43@gmail.com)
 
-![Abonnés GitHub](https://img.shields.io/github/followers/HaithemHadjAmmar?style=social)
-[![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
-<!-- ![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=HaithemHadjAmmar.HaithemHadjAmmar) -->
+![Abonnées GitHub](https://img.shields.io/github/followers/HaithemHadjAmmar?style=social)
+![étoiles GitHub](https://img.shields.io/github/stars/HaithemHadjAmmar/HaithemHadjAmmar?style=social)
+![forks GitHub](https://img.shields.io/github/forks/HaithemHadjAmmar/HaithemHadjAmmar?style=social)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=HaithemHadjAmmar.HaithemHadjAmmar)-->
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=HaithemHadjAmmar)
 <img src="https://img.shields.io/badge/Age-25-blue" />
 
